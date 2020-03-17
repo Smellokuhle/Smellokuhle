@@ -45,7 +45,7 @@ color: orange;
     font-size: 30px;
 }
 .main-page{
-    background: url("../images/tttt.jpeg");
+    background: url("tttt.jpeg");
     background-size: cover;
     text-align: center;
     padding: 300px;
@@ -112,7 +112,7 @@ color: orange;
     color: gray;
 }
 .image-container{
-    background: url("../images/www.jpg");
+    background: url("www.jpg");
     padding: 300px;
     background-repeat: no-repeat;
     margin-left: 90px;
@@ -148,7 +148,7 @@ color: orange;
     grid-gap: 10px;
 }
 .image-contnr{
-    background: url("../images/toddler.jpg");
+    background: url("toddler.jpg");
     background-size: cover;
     margin-left: 300px;
 }
