@@ -1,0 +1,190 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.info-media-container{
+    background: #0f0934;
+    background-size: cover;
+    padding: 30px;
+    text-align: center;
+}
+.info-container{
+    float: left;
+    color: white;
+    margin-left: 250px;
+}
+.media-container{
+    float: right;
+    margin-right: 300px;
+    color: white;
+}
+.logo-nav-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.logo-container h2 {
+margin-left: 200px;
+}
+h2 span {
+color: orange;
+}
+.nav-container nav ul li {
+    list-style: none;
+    display: inline;
+}
+.nav-container nav ul li a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+.nav-container nav ul li a i{
+    color: white;
+    background: orange;
+    background-size: cover;
+    font-size: 30px;
+}
+.main-page{
+    background: url("../images/tttt.jpeg");
+    background-size: cover;
+    text-align: center;
+    padding: 300px;
+}
+.main-heading h2{
+    color: orange;
+    font-size: 35px;
+}
+.main-heading h3{
+    color: white;
+    font-size: 40px;
+}
+.main-heading p{
+    color: white;
+}
+#btn{
+    background: orange;
+    width: 30%;
+    padding: 10px;
+}
+.SERVICES{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 90px;
+    margin-left: 300px;
+}
+.SERVICES h4{
+    font-size: 25px;
+    font-weight: bold;
+}
+.SERVICES p{
+    font-size: 15px;
+}
+.SERVICES i{
+    color:orange;
+    font-size: 60px;
+}
+.span-container span{
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    grid-gap: 1000px
+}
+.about-us{
+    text-align: center;
+}
+#btn1{
+    background: orange;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.more-about-lorem{
+    display: inline-grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    border: 1px solid white;
+}
+.more{
+    margin-left: 150px;
+    height: 50%;
+}
+.more p{
+    color: gray;
+}
+.image-container{
+    background: url("../images/www.jpg");
+    padding: 300px;
+    background-repeat: no-repeat;
+    margin-left: 90px;
+
+}
+.offers{
+    background: orange;
+    background-size: cover;
+    padding: 200px;
+    text-align: center;
+}
+.building{
+    display: inline-grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 15px;
+}
+.building i{
+    color: white;
+    font-size: 50px;
+}
+.features{
+    text-align: center;
+}
+.features h3{
+    font-size: 50px;
+}
+.features p{
+    color: grey;
+}
+.ourserv{
+    display: grid;
+    grid-template-columns: 50% 10% 40%;
+    grid-gap: 10px;
+}
+.image-contnr{
+    background: url("../images/toddler.jpg");
+    background-size: cover;
+    margin-left: 300px;
+}
+.icon-cont i {
+    background: #0f0934;
+    color: orange;
+    font-size: 40px;
+    padding: 40px;
+    border: 8px solid orange;
+}
+.msg-cont h4{
+    font-size: 20px;
+}
+.msg-cont p{
+    color: gray;
+    font-size: 20px;
+}
+.ourservi{
+    background: #23293e;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.click nav ul li {
+    list-style: none;
+    display: inline; 
+}
+.click nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.images{
+    display: flex;
+}
+.immages{
+    display: flex;
+}
